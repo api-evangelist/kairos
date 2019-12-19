@@ -1,0 +1,61 @@
+{
+    "name": "Kairos",
+    "description": "<p>The Kairos API allows developers to bring the magic of identity to their applications and services. &nbsp;Our facial recognition API&rsquo;s are amongst the best in the world. &nbsp;Our pricing model allows you to test and scale on your terms and the first 500 transactions a month are always free.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-57-pm.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kairos\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kairos",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-02-57-pm.png",
+            "humanURL": "http:\/\/www.kairos.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kairos-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "API.json - Authoritative",
+            "url": "http:\/\/apis.io\/apisdef\/kairos.json"
+        },
+        {
+            "type": "Base",
+            "url": "http:\/\/api.kairos.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.kairos.com\/blog\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.kairos.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "api@kairos.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LoveKairos"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.kairos.com\/"
+        }
+    ]
+}
